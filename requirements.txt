@@ -1,0 +1,4 @@
+#libraries we used
+gunicorn                    #general used for deployment
+flask
+scikit-learn
